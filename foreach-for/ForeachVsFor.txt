@@ -23,3 +23,7 @@ Listu obilazimo for:     11558
 Listu obilazimo foreach: 8286
 
 Prolaz 5:
+Niz obilazimo foreach: 8730
+Niz obilazimo for:     7177
+Listu obilazimo for:     11193
+Listu obilazimo foreach: 7752
