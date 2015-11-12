@@ -6,7 +6,7 @@ namespace Vsite.CSharp
     {
         static void Main(string[] args)
         {
-            // TODO: Prevesti program te programom ILDasm pogledati međukod. Pripadajući međukod kopirati u datoteke "Petlja for.txt", odnosno "Petlja while.txt" koje su dio projekta
+            // Prevesti(buildati) program te programom ILDasm pogledati međukod. Pripadajući međukod kopirati u datoteke "Petlja for.txt", odnosno "Petlja while.txt" koje su dio projekta
 
             for (int i = 0; i < 10; ++i)
                 Console.WriteLine(i);
