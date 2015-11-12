@@ -73,7 +73,7 @@ namespace Vsite.CSharp
             stoperica.Stop();
             Console.WriteLine(stoperica.ElapsedTicks);
 
-            // TODO: Pokrenuti program 5 puta i sve ispise kopirati u datoteku "ForEachVsFor.txt" pridruženu ovom projektu.
+            // Pokrenuti program 5 puta i sve ispise kopirati u datoteku "ForEachVsFor.txt" pridruženu ovom projektu.
 
             Console.ReadKey();
 

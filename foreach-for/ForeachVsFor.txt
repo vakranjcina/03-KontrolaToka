@@ -1,1 +1,25 @@
-﻿
+﻿Prolaz 1:
+Niz obilazimo foreach: 3435
+Niz obilazimo for:     3097
+Listu obilazimo for:     4864
+Listu obilazimo foreach: 3501
+
+Prolaz 2:
+Niz obilazimo foreach: 4184
+Niz obilazimo for:     4238
+Listu obilazimo for:     7004
+Listu obilazimo foreach: 4626
+
+Prolaz 3:
+Niz obilazimo foreach: 6532
+Niz obilazimo for:     5963
+Listu obilazimo for:     10103
+Listu obilazimo foreach: 10524
+
+Prolaz 4:
+Niz obilazimo foreach: 8114
+Niz obilazimo for:     7384
+Listu obilazimo for:     11558
+Listu obilazimo foreach: 8286
+
+Prolaz 5:
