@@ -1,1 +1,62 @@
-﻿
+﻿Prvi prolaz: 
+1. pokušaj: 4
+2. pokušaj: 4
+3. pokušaj: 5
+4. pokušaj: 4
+5. pokušaj: 4
+6. pokušaj: 2
+7. pokušaj: 3
+8. pokušaj: 3
+9. pokušaj: 2
+10. pokušaj: 1
+11. pokušaj: 5
+12. pokušaj: 4
+13. pokušaj: 5
+14. pokušaj: 2
+15. pokušaj: 5
+16. pokušaj: 2
+17. pokušaj: 5
+18. pokušaj: 6
+Zbroj = 18
+
+Drugi prolaz:
+1. pokušaj: 1
+2. pokušaj: 4
+3. pokušaj: 6
+3 + 4
+7 + 4
+11 + 2
+Zbroj = 13
+
+Treći prolaz:
+1. pokušaj: 2
+2. pokušaj: 5
+3. pokušaj: 1
+4. pokušaj: 6
+4 + 6
+10 + 1
+11 + 5
+Zbroj = 16
+
+Četvrti prolaz:
+1. pokušaj: 3
+2. pokušaj: 1
+3. pokušaj: 3
+4. pokušaj: 3
+5. pokušaj: 3
+6. pokušaj: 4
+7. pokušaj: 5
+8. pokušaj: 6
+8 + 5
+Zbroj = 13
+
+Peti prolaz:
+1. pokušaj: 1
+2. pokušaj: 3
+3. pokušaj: 6
+3 + 2
+5 + 3
+8 + 3
+11 + 1
+12 + 3
+Zbroj = 15
